@@ -22,7 +22,7 @@
       <!-- Intro -->
       <section class="intro">
         <header>
-          <h1>개발하는 이영노</h1>
+          <h1>개발하는 이영노!</h1>
           <p>
             A free responsive site template designed by
             <a href="https://twitter.com/ajlkn">@ajlkn</a> /
